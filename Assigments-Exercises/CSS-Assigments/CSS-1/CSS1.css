@@ -1,0 +1,11 @@
+.fb-text-style{
+    color:#1877F2;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.pfb-text-style{
+    color: gray;
+    font-style: italic;
+    font-weight: bold;
+}
